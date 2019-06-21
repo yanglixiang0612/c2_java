@@ -136,5 +136,11 @@ public class Main {
         //demoSet();
 
         System.out.println(Math.round(-11.6));  //+0.5 向下取整
+        Integer a1 = new Integer(2);
+        Integer a2 = 2;
+        int a3= 2;
+        System.out.println(a1 == a2);
+        System.out.println(a1 == a3);
+        System.out.println(a2 == a3);
     }
 }
