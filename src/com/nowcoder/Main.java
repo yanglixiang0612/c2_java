@@ -133,6 +133,8 @@ public class Main {
         //demoControlFlow();
         //demoString();
         //demoList();
-        demoSet();
+        //demoSet();
+
+        System.out.println(Math.round(-11.6));  //+0.5 向下取整
     }
 }
